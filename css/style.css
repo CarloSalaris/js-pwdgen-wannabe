@@ -15,6 +15,7 @@ body {
     padding: 10px;
     background-image: url("../img/pwd-bg.jpg");
     background-size: cover;
+    background-position: center;
 }
 
 h1 {
