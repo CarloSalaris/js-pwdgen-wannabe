@@ -18,4 +18,10 @@ console.log(userSurname);
 
 // Chiedi il suo colore preferito
 
+const userColour = prompt("Inserisci il tuo colore preferito");
+
+console.log(userColour);
+
+
+
 // Scrivi sulla pagina nomecognomecolorepreferito21
