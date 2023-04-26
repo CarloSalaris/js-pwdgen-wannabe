@@ -1,0 +1,31 @@
+* {
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: antiquewhite;
+}
+
+.wrapper {
+    height: 100vh;
+    padding: 10px;
+    background-image: url("../img/pwd-bg.jpg");
+    background-size: cover;
+}
+
+h1 {
+    margin: 100px;
+}
+
+p#pwdGen {
+    border: solid 2px blueviolet;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: inset 0 0 5px 2px blueviolet;
+    margin: 50px 100px;
+    
+}

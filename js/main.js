@@ -27,4 +27,4 @@ console.log(userPassword);
 
 //Scrivi sulla pagina la nuova password generata
 
-document.getElementById("pwdGen").innerHTML = "Your new password is " + userPassword
+document.getElementById("pwdGen").innerHTML = "Your new password is: " + userPassword
